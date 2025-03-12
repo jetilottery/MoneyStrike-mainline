@@ -1,0 +1,80 @@
+﻿{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% a {@maxRTP}%",
+    "paybackTitle": "Retorno Esperado",
+    "paybackBody": "Para este jogo, o retorno esperado teórico de longo prazo é {RTP}.",
+    "subheading": "Valor da aposta: {ticketCost}",
+    "prizeLevel": "Nível do Prêmio",
+    "prizeValue": "Valor do Prêmio",
+    "overallChances": "Há uma chance geral de 1 em {odds} de ganhar um prêmio em cada jogada.",
+    "prizeDivision": "Divisão do Prêmio",
+    "prizeRemaining": "Prêmios Restantes Aproximadamente",
+    "oddsPerPlay": "Chances por Jogada"
+  },
+  "title": "Chuva de Milhões",
+  "MenuCommand": {
+    "price": "Preço",
+    "stake": "Aposta",
+    "howToPlay": "Ajuda",
+    "paytable": "Tabela de Pagamento",
+    "close": "Fechar",
+    "audio": {
+      "sound": "Som",
+      "on": "Ativado",
+      "off": "Desativado"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erro: ",
+    "genericErrorText": "Ocorreu um erro interno. SAIA do jogo e reinicie novamente."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "VALOR DA APOSTA",
+    "ticketSelect_ticketCost": "VALOR DA APOSTA",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TENTAR "
+    },
+    "footer_win": {
+      "BUY": "PRÊMIO",
+      "TRY": "PRÊMIO DA DEMONSTRAÇÃO"
+    },
+
+    "button_buy": {
+      "BUY": "COMPRAR",
+      "TRY": "TENTAR"
+    },
+    "button_try": "TENTAR",
+    "button_continue": "CONTINUAR",
+    "button_moveToMoney": "PASSAR PARA DINHEIRO",
+    "button_autoPlay": "REVELAR TUDO",
+    "button_stop": "PARAR",
+    "button_playAgain": {
+      "BUY": "JOGAR NOVAMENTE",
+      "TRY": "TENTAR NOVAMENTE"
+    },
+    "button_tryAgain": "TENTAR NOVAMENTE",
+    "button_ok": "OK",
+    "button_exit": "SAIR",
+	"button_retry": "TENTAR NOVAMENTE",
+    "error_button_exit": "SAIR",
+    "error_title": "ERRO",
+
+    "message_nonWin": "MAIS SORTE\nNA PRÓXIMA VEZ",
+    "message_win": {
+      "BUY": "PARABÉNS!\nVOCÊ GANHOU",
+      "TRY": "OBRIGADO POR JOGAR!\nVOCÊ PODERIA TER GANHO"
+    },
+
+    "howToPlay": "COMO JOGAR",
+    "page1": "Pressione um Saco de Dinheiro para revelar NÚMEROS DA SORTE.\n\nPressione uma Pilha de Dinheiro para revelar os SEUS NÚMEROS.\n\nSe um NÚMERO DA SORTE for igual a um dos SEUS NÚMEROS, você ganha um prêmio.\n\nRevele um símbolo das Barras de Ouro para ganhar instantaneamente um prêmio!",
+
+    "winUpTo": "GANHE ATÉ {0}!",
+
+    "yourNumbers": "SEUS NÚMEROS",
+    "luckyNumbers": "NÚMEROS DA SORTE"
+  }
+}

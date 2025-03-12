@@ -1,0 +1,9 @@
+{
+  "game": {
+    "name": "MoneyStrike",
+    "id": "300-2160-0",
+    "framework": "jet",
+    "version": "1.5",
+    "studio": "interactive"
+  }
+}
